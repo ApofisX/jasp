@@ -1,0 +1,23 @@
+# C# builds
+**/bin/
+**/obj/
+*.user
+*.suo
+*.csproj.user
+
+# Rider
+.idea/
+
+# LabVIEW temp files
+*.aliases
+*.lvlps
+*.lvbitx
+*.lvclass
+*.lvprojx
+*.vi~*
+*.lvlibp
+*.cache
+
+# OS junk
+.DS_Store
+Thumbs.db
