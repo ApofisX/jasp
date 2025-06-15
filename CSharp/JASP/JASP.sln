@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASP.Domain", "JASP.Domain\JASP.Domain.csproj", "{6FCBE109-9D43-48E2-8F81-4F7E7FA4CA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASP.TestConsoleApp", "JASP.TestConsoleApp\JASP.TestConsoleApp.csproj", "{52C17EB9-9367-4421-9E2E-C7DBB22A6B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASP.Utils", "JASP.Utils\JASP.Utils.csproj", "{C9827592-5C77-42A8-9E33-8AFBE973AD28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASP.Abstractions", "JASP.Abstractions\JASP.Abstractions.csproj", "{9A27600F-36E2-4CA3-899E-7752D68C9AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASP.Transport.TCP", "JASP.Transport.TCP\JASP.Transport.TCP.csproj", "{5FFEF453-AA6A-4D50-8A01-C63014261F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASP.Client", "JASP.Client\JASP.Client.csproj", "{2F23C8D8-2B43-4FBB-9225-CD7BBC430628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCBE109-9D43-48E2-8F81-4F7E7FA4CA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCBE109-9D43-48E2-8F81-4F7E7FA4CA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCBE109-9D43-48E2-8F81-4F7E7FA4CA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCBE109-9D43-48E2-8F81-4F7E7FA4CA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C17EB9-9367-4421-9E2E-C7DBB22A6B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C17EB9-9367-4421-9E2E-C7DBB22A6B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C17EB9-9367-4421-9E2E-C7DBB22A6B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C17EB9-9367-4421-9E2E-C7DBB22A6B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9827592-5C77-42A8-9E33-8AFBE973AD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9827592-5C77-42A8-9E33-8AFBE973AD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9827592-5C77-42A8-9E33-8AFBE973AD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9827592-5C77-42A8-9E33-8AFBE973AD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A27600F-36E2-4CA3-899E-7752D68C9AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A27600F-36E2-4CA3-899E-7752D68C9AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A27600F-36E2-4CA3-899E-7752D68C9AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A27600F-36E2-4CA3-899E-7752D68C9AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFEF453-AA6A-4D50-8A01-C63014261F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFEF453-AA6A-4D50-8A01-C63014261F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFEF453-AA6A-4D50-8A01-C63014261F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFEF453-AA6A-4D50-8A01-C63014261F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F23C8D8-2B43-4FBB-9225-CD7BBC430628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F23C8D8-2B43-4FBB-9225-CD7BBC430628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F23C8D8-2B43-4FBB-9225-CD7BBC430628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F23C8D8-2B43-4FBB-9225-CD7BBC430628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

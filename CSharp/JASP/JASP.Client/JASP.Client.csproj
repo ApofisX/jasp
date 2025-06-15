@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\JASP.Abstractions\JASP.Abstractions.csproj"/>
+        <ProjectReference Include="..\JASP.Domain\JASP.Domain.csproj"/>
+        <ProjectReference Include="..\JASP.Utils\JASP.Utils.csproj"/>
+    </ItemGroup>
+
+</Project>
